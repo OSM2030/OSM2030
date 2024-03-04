@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Omkar Mhaske
 - Currently I am Pursuing my Btech In Computer Science & Design
 -  I’m interested in Web Development
--  I’m currently learning Front End Development
 -  Reach me on my Linkdin: linkedin.com/in/omkar-mhaske-b90026258
 -  Mail: mhaskeomkar239@gmail.com
 <!---
