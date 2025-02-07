@@ -28,9 +28,9 @@ I'm OSM2030, a passionate B.Tech Computer Science and Design student with a keen
 
 📬 Let's Connect!
 
-🔗 LinkedIn (Add your LinkedIn profile link here)
+🔗 LinkedIn (https://www.linkedin.com/in/omkar-mhaske-b90026258/)
 
-📧 Email: (Add your email here)
+📧 Email: (mhaskeomkar239@gmail.com)
 
 ⭐ Feel free to explore my repositories and contribute to projects! Let's collaborate and build something amazing! 🚀
 
