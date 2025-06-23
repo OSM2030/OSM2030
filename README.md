@@ -1,36 +1,29 @@
-Hi there! 👋 Welcome to My GitHub Profile
+Hello! Greetings from my GitHub profile.
 
-I'm OSM2030, a passionate B.Tech Computer Science and Design student with a keen interest in software engineering, data analysis, visualization, and web development. I love building impactful projects that solve real-world problems and contribute to open-source development.
+As a B.Tech student studying computer science and design, I'm Omkar Mhaske(OSM2030), and I'm passionate about creating useful technological solutions. I enjoy learning about Data Science, AI, Web Development and using code to make a difference in the real world.
 
+---
 
-🚀 About Me
+About Me
 
- Third Year B.Tech Student specializing in Computer Science and Design
+MIT Chh. Sambhajinagar third-year B.Tech student studying computer science and design  
+Investigating NLP, Deep Learning, and Machine Learning
+Working directly with Django, Django Ninja, and RESTful APIs -  Took part in Amazon ML Challenge & Accenture Data Analyst Simulation (Forage)
+At the moment, I'm learning TensorFlow, HuggingFace NLP, FastAPI, Docker
 
- Passionate about Data Analysis, Machine Learning, and Full-Stack Development
+---
 
- Participated in Amazon ML Challenge & Accenture Data Analyst Virtual Internship
+Highlighted Projects
 
- Exploring Django Ninja, APIs, and Deployment
+- [FeedLink] - Hunger Relief Food Redistribution Platform  
+- [Job Portal API] - Full-stack Django + Ninja job listing API  
+- [Recipe Management API] - Django CRUD API for recipe data
 
+---
 
+Let's Talk!
 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/omkar-mhaske-b90026258/)  
+- 📧 mhaskeomkar239@gmail.com  
 
-📌 Featured Projects
-
- FeedLink - A Food Redistribution Platform
-
- Recipe Management API
-
- Job Portal API 
-
-
-
-📬 Let's Connect!
-
- LinkedIn (https://www.linkedin.com/in/omkar-mhaske-b90026258/)
-
- Email: (mhaskeomkar239@gmail.com)
-
- Feel free to explore my repositories and contribute to projects! Let's collaborate and build something amazing! 🚀
-
+Please look through my repos and get in touch if you would like to work together.
