@@ -17,7 +17,7 @@ Highlighted Projects
 
 - [FeedLink] - Hunger Relief Food Redistribution Platform  
 - [Job Portal API] - Full-stack Django + Ninja job listing API  
-- [Recipe Management API] - Django CRUD API for recipe data
+- [Recipe Management API] - Django + Ninja for recipe data
 
 ---
 
