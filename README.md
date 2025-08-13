@@ -2,7 +2,7 @@ Hello, I'm Omkar Mhaske.
 
 I am a student of Computer Science and Design who builds projects with Python, Django, and APIs. My work includes a Food Redistribution Platform and a Job Portal API. I also have experience from the Amazon ML Challenge.
 
-I am currently expanding my skills in Data Science, AI, and deployment tools like TensorFlow and Docker.
+I am currently expanding my skills in Data Science, AI, and deployment tools like TensorFlow.
 
 ---
 
