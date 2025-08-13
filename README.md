@@ -1,15 +1,8 @@
-Hello! Greetings from my GitHub profile.
+Hello, I'm Omkar Mhaske.
 
-As a B.Tech student studying computer science and design, I'm Omkar Mhaske(OSM2030), and I'm passionate about creating useful technological solutions. I enjoy learning about Data Science, AI, Web Development and using code to make a difference in the real world.
+I am a student of Computer Science and Design who builds projects with Python, Django, and APIs. My work includes a Food Redistribution Platform and a Job Portal API. I also have experience from the Amazon ML Challenge.
 
----
-
-About Me
-
-MIT Chh. Sambhajinagar third-year B.Tech student studying computer science and design  
-Investigating NLP, Deep Learning, and Machine Learning
-Working directly with Django, Django Ninja, and RESTful APIs -  Took part in Amazon ML Challenge & Accenture Data Analyst Simulation (Forage)
-At the moment, I'm learning TensorFlow, HuggingFace NLP, FastAPI, Docker
+I am currently expanding my skills in Data Science, AI, and deployment tools like TensorFlow and Docker.
 
 ---
 
