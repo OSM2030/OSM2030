@@ -8,7 +8,9 @@ I like building simple projects that solve real problems and help me learn bette
 Learning more about Data Science and Machine Learning
 Building projects using Python and Django
 Currently working on a chatbot project during my internship
+
 🚀 Projects
+
 Tourism Explorer
 
 A Flask web app where you can find nearby tourist places using location or coordinates.
