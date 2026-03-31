@@ -1,40 +1,41 @@
-Hi, I'm Omkar Mhaske👋
+# Hi, I'm Omkar Mhaske 👋
 
-I’m a Computer Science student who is exploring data analysis, data science, and Python development.
+Computer Science & Design student passionate about data analysis, 
+dashboard development, and turning raw data into actionable insights.
 
-I like building simple projects that solve real problems and help me learn better by doing.
+## 🔥 What I'm Working On
+- Data Science Intern at Fourise Software Solutions — building real 
+  data pipelines and working with 17,000+ government documents
+- Expanding skills in Tableau, Power BI, and advanced SQL
+- Actively seeking data analyst roles in financial services
 
-💻 What I’m Working On
-Learning more about Data Science and Machine Learning
-Building projects using Python and Django
-Currently working on a chatbot project during my internship
+## 🚀 Projects
 
-🚀 Projects
+### 📊 Bank Marketing Campaign Analysis
+Python + Pandas + Matplotlib + Tableau  
+Analyzed 45,000+ bank customer records to find subscription patterns.
+Built an interactive Tableau dashboard with 4 visualizations.
+Key finding: previously successful contacts convert at 64.7% — 5x average.  
+[GitHub Repo](https://github.com/OSM2030/Bank-Marketing-Campaign-Analysis)
 
-Tourism Explorer
+### 🗺️ Tourism Explorer
+Python + Flask + Pandas + Folium  
+Flask web app to explore tourist locations using place names or coordinates.
+Includes interactive maps and analytics dashboard for visitor insights.
 
-A Flask web app where you can find nearby tourist places using location or coordinates.
-It also shows maps and some basic insights.
+### 🍱 FeedLink — Food Redistribution Platform
+HTML + CSS (Major Project)  
+Real-world social impact project solving food wastage.
+Visited 3-4 NGOs for Letters of Intent. Led frontend development.
 
-FeedLink
+## 🛠️ Skills
+**Languages:** Python, SQL, C, HTML, CSS  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Selenium  
+**Visualization:** Tableau, Power BI (Familiar)  
+**Tools:** Git, GitHub, MS Excel (Advanced), MySQL  
+**Concepts:** Exploratory Data Analysis, Data Validation, 
+Dashboard Development, Business Intelligence
 
-A food redistribution platform (major project)
-Worked mainly on frontend and improving user experience.
-
-Job Portal (Django)
-
-A simple job portal with basic APIs to create and view job listings.
-
-🛠️ Skills
-Python, SQL, C
-HTML, CSS
-Pandas, NumPy, Matplotlib
-Git & GitHub
-Basics of Machine Learning
-📌 About Me
-I prefer learning by building projects
-Interested in data-related roles
-Always trying to improve step by step
 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/omkar-mhaske-b90026258/)  
 - 📧 mhaskeomkar239@gmail.com  
